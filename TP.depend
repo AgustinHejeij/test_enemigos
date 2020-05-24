@@ -1,0 +1,1263 @@
+# depslib dependency file v1.0
+1590260831 source:/home/gonzalo/Taller de Prog I/VANGUARDISTAS/BotonIniciar.cpp
+	"BotonIniciar.h"
+	"ManejoDeNiveles.h"
+
+1590260831 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/BotonIniciar.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<stdio.h>
+	<string>
+
+1590260831 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/ManejoDeSDL.h
+	"TextureW.h"
+
+1590260831 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/TextureW.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<stdio.h>
+	<string>
+
+1590260831 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/global.h
+	"ManejoDeSDL.h"
+	"ManejoDeLog.h"
+	"ManejoDeJson.h"
+
+1590260831 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/ManejoDeLog.h
+	"Logger.h"
+
+1590260831 source:/home/gonzalo/Taller de Prog I/VANGUARDISTAS/main.cpp
+	"global.h"
+	"Menu.h"
+
+1590260831 source:/home/gonzalo/Taller de Prog I/VANGUARDISTAS/ManejoDeLog.cpp
+	"ManejoDeLog.h"
+	<string>
+	"LoggerError.h"
+	"LoggerInfo.h"
+	"LoggerDebug.h"
+	"Logger.h"
+
+1590260831 source:/home/gonzalo/Taller de Prog I/VANGUARDISTAS/Nave.cpp
+	"Nave.h"
+	"NaveJugador.h"
+	"NaveEnemiga.h"
+
+1590260831 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/Nave.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<stdio.h>
+	<string>
+	"ManejoDeSDL.h"
+	"global.h"
+	"list"
+
+1587913703 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/colicionador.h
+
+1590260831 source:/home/gonzalo/Taller de Prog I/VANGUARDISTAS/NaveEnemiga.cpp
+	"NaveEnemiga.h"
+
+1590260831 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/NaveEnemiga.h
+	"Nave.h"
+
+1590260831 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/NaveJugador.h
+	"Nave.h"
+	"list"
+
+1590260831 source:/home/gonzalo/Taller de Prog I/VANGUARDISTAS/NaveJugador.cpp
+	"NaveJugador.h"
+
+1590260831 source:/home/gonzalo/Taller de Prog I/VANGUARDISTAS/TextureW.cpp
+	"TextureW.h"
+	"ManejoDeSDL.h"
+	"global.h"
+
+1590260831 source:/home/gonzalo/Taller de Prog I/VANGUARDISTAS/ManejoDeSDL.cpp
+	"global.h"
+
+1589848205 source:/home/renzo/Documents/GitHub/VANGUARDISTAS/ManejoDeLog.cpp
+	"ManejoDeLog.h"
+	<string>
+	"LoggerError.h"
+	"LoggerInfo.h"
+	"LoggerDebug.h"
+	"Logger.h"
+
+1589848205 /home/renzo/Documents/GitHub/VANGUARDISTAS/ManejoDeLog.h
+	"Logger.h"
+
+1589855870 source:/home/renzo/Documents/GitHub/VANGUARDISTAS/Nave.cpp
+	"Nave.h"
+	"NaveJugador.h"
+	"NaveEnemiga.h"
+
+1589848205 /home/renzo/Documents/GitHub/VANGUARDISTAS/Nave.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<stdio.h>
+	<string>
+	"ManejoDeSDL.h"
+	"global.h"
+	"list"
+
+1589848205 /home/renzo/Documents/GitHub/VANGUARDISTAS/ManejoDeSDL.h
+	"TextureW.h"
+
+1589848205 /home/renzo/Documents/GitHub/VANGUARDISTAS/TextureW.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<stdio.h>
+	<string>
+
+1589848205 /home/renzo/Documents/GitHub/VANGUARDISTAS/global.h
+	"ManejoDeSDL.h"
+	"ManejoDeLog.h"
+	"ManejoDeJson.h"
+
+1587764270 /home/renzo/Documents/GitHub/VANGUARDISTAS/colicionador.h
+
+1590258364 source:/home/renzo/Documents/GitHub/VANGUARDISTAS/NaveEnemiga.cpp
+	"NaveEnemiga.h"
+
+1590258357 /home/renzo/Documents/GitHub/VANGUARDISTAS/NaveEnemiga.h
+	"Nave.h"
+
+1589848205 /home/renzo/Documents/GitHub/VANGUARDISTAS/NaveJugador.h
+	"Nave.h"
+	"list"
+
+1589848205 source:/home/renzo/Documents/GitHub/VANGUARDISTAS/NaveJugador.cpp
+	"NaveJugador.h"
+
+1589848205 source:/home/renzo/Documents/GitHub/VANGUARDISTAS/TextureW.cpp
+	"TextureW.h"
+	"ManejoDeSDL.h"
+	"global.h"
+
+1589848205 source:/home/renzo/Documents/GitHub/VANGUARDISTAS/BotonIniciar.cpp
+	"BotonIniciar.h"
+	"ManejoDeNiveles.h"
+
+1589848205 /home/renzo/Documents/GitHub/VANGUARDISTAS/BotonIniciar.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<stdio.h>
+	<string>
+
+1589848205 source:/home/renzo/Documents/GitHub/VANGUARDISTAS/main.cpp
+	"global.h"
+	"Menu.h"
+
+1589848205 source:/home/renzo/Documents/GitHub/VANGUARDISTAS/ManejoDeSDL.cpp
+	"global.h"
+
+1589848205 source:/home/renzo/Documents/GitHub/VANGUARDISTAS/Escenario.cpp
+	"Escenario.h"
+	"global.h"
+
+1589848205 /home/renzo/Documents/GitHub/VANGUARDISTAS/Escenario.h
+	<SDL2/SDL.h>
+	"TextureW.h"
+
+1589848205 /home/renzo/Documents/GitHub/VANGUARDISTAS/Menu.h
+	"Escenario.h"
+	"TextureW.h"
+
+1589848742 source:/home/renzo/Documents/GitHub/VANGUARDISTAS/Menu.cpp
+	"Menu.h"
+	"BotonIniciar.h"
+	"global.h"
+	"ManejoDeSDL.h"
+
+1589408077 source:/home/renzo/Documents/GitHub/VANGUARDISTAS/Mapa.cpp
+	"Mapa.h"
+	"NaveJugador.h"
+	"NaveEnemiga.h"
+	"Nave.h"
+	<list>
+
+1589411157 /home/renzo/Documents/GitHub/VANGUARDISTAS/Mapa.h
+	"Escenario.h"
+	"TextureW.h"
+
+1589848205 /home/renzo/Documents/GitHub/VANGUARDISTAS/Logger.h
+	<iostream>
+	<fstream>
+
+1589848205 /home/renzo/Documents/GitHub/VANGUARDISTAS/LoggerError.h
+	"Logger.h"
+
+1589848205 /home/renzo/Documents/GitHub/VANGUARDISTAS/LoggerInfo.h
+	"Logger.h"
+
+1589848205 /home/renzo/Documents/GitHub/VANGUARDISTAS/LoggerDebug.h
+	"Logger.h"
+
+1589848205 source:/home/renzo/Documents/GitHub/VANGUARDISTAS/Logger.cpp
+	"Logger.h"
+	<iostream>
+	<fstream>
+
+1589848205 source:/home/renzo/Documents/GitHub/VANGUARDISTAS/LoggerDebug.cpp
+	"LoggerDebug.h"
+
+1589848205 source:/home/renzo/Documents/GitHub/VANGUARDISTAS/LoggerError.cpp
+	"LoggerError.h"
+
+1589848205 source:/home/renzo/Documents/GitHub/VANGUARDISTAS/LoggerInfo.cpp
+	"LoggerInfo.h"
+
+1588699943 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/Mapa.h
+	"Escenario.h"
+	"TextureW.h"
+
+1590260831 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/Escenario.h
+	<SDL2/SDL.h>
+	"TextureW.h"
+
+1590260831 source:/home/gonzalo/Taller de Prog I/VANGUARDISTAS/Escenario.cpp
+	"Escenario.h"
+	"global.h"
+
+1590260831 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/Logger.h
+	<iostream>
+	<fstream>
+
+1590260831 source:/home/gonzalo/Taller de Prog I/VANGUARDISTAS/Logger.cpp
+	"Logger.h"
+	<iostream>
+	<fstream>
+
+1590260831 source:/home/gonzalo/Taller de Prog I/VANGUARDISTAS/LoggerDebug.cpp
+	"LoggerDebug.h"
+
+1590260831 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/LoggerDebug.h
+	"Logger.h"
+
+1590260831 source:/home/gonzalo/Taller de Prog I/VANGUARDISTAS/LoggerError.cpp
+	"LoggerError.h"
+
+1590260831 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/LoggerError.h
+	"Logger.h"
+
+1590260831 source:/home/gonzalo/Taller de Prog I/VANGUARDISTAS/LoggerInfo.cpp
+	"LoggerInfo.h"
+
+1590260831 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/LoggerInfo.h
+	"Logger.h"
+
+1590260831 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/Menu.h
+	"Escenario.h"
+	"TextureW.h"
+
+1588719074 source:/home/gonzalo/Taller de Prog I/VANGUARDISTAS/Mapa.cpp
+	"Mapa.h"
+	"NaveJugador.h"
+	"NaveEnemiga.h"
+	"Nave.h"
+	<list>
+
+1590260831 source:/home/gonzalo/Taller de Prog I/VANGUARDISTAS/Menu.cpp
+	"Menu.h"
+	"BotonIniciar.h"
+	"global.h"
+	"ManejoDeSDL.h"
+
+1588189741 source:/home/renzo/Documents/GitHub/VANGUARDISTAS2/BotonIniciar.cpp
+	"BotonIniciar.h"
+	"Mapa.h"
+
+1588189741 /home/renzo/Documents/GitHub/VANGUARDISTAS2/BotonIniciar.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<stdio.h>
+	<string>
+
+1588189741 /home/renzo/Documents/GitHub/VANGUARDISTAS2/Mapa.h
+	"Escenario.h"
+	"TextureW.h"
+
+1588189741 /home/renzo/Documents/GitHub/VANGUARDISTAS2/Escenario.h
+	<SDL2/SDL.h>
+	"TextureW.h"
+
+1588189741 /home/renzo/Documents/GitHub/VANGUARDISTAS2/TextureW.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<stdio.h>
+	<string>
+
+1588189741 source:/home/renzo/Documents/GitHub/VANGUARDISTAS2/Escenario.cpp
+	"Escenario.h"
+	"global.h"
+
+1588189741 /home/renzo/Documents/GitHub/VANGUARDISTAS2/global.h
+	"ManejoDeSDL.h"
+	"ManejoDeLog.h"
+
+1588189741 /home/renzo/Documents/GitHub/VANGUARDISTAS2/ManejoDeSDL.h
+	"TextureW.h"
+
+1588189741 /home/renzo/Documents/GitHub/VANGUARDISTAS2/ManejoDeLog.h
+	"Logger.h"
+
+1588189741 /home/renzo/Documents/GitHub/VANGUARDISTAS2/Logger.h
+	<iostream>
+	<fstream>
+
+1588189741 source:/home/renzo/Documents/GitHub/VANGUARDISTAS2/Logger.cpp
+	"Logger.h"
+	<iostream>
+	<fstream>
+
+1588189741 source:/home/renzo/Documents/GitHub/VANGUARDISTAS2/LoggerDebug.cpp
+	"LoggerDebug.h"
+
+1588189741 /home/renzo/Documents/GitHub/VANGUARDISTAS2/LoggerDebug.h
+	"Logger.h"
+
+1588189741 source:/home/renzo/Documents/GitHub/VANGUARDISTAS2/LoggerError.cpp
+	"LoggerError.h"
+
+1588189741 /home/renzo/Documents/GitHub/VANGUARDISTAS2/LoggerError.h
+	"Logger.h"
+
+1588189741 source:/home/renzo/Documents/GitHub/VANGUARDISTAS2/LoggerInfo.cpp
+	"LoggerInfo.h"
+
+1588189741 /home/renzo/Documents/GitHub/VANGUARDISTAS2/LoggerInfo.h
+	"Logger.h"
+
+1588189741 source:/home/renzo/Documents/GitHub/VANGUARDISTAS2/main.cpp
+	"global.h"
+	"Menu.h"
+
+1588189741 /home/renzo/Documents/GitHub/VANGUARDISTAS2/Menu.h
+	"Escenario.h"
+	"TextureW.h"
+
+1588189741 source:/home/renzo/Documents/GitHub/VANGUARDISTAS2/ManejoDeLog.cpp
+	"ManejoDeLog.h"
+	<string>
+	"LoggerError.h"
+	"LoggerInfo.h"
+	"LoggerDebug.h"
+	"Logger.h"
+
+1588189741 source:/home/renzo/Documents/GitHub/VANGUARDISTAS2/ManejoDeSDL.cpp
+	"global.h"
+
+1588189741 source:/home/renzo/Documents/GitHub/VANGUARDISTAS2/Mapa.cpp
+	"Mapa.h"
+	"NaveJugador.h"
+	"NaveEnemiga.h"
+	"Nave.h"
+
+1588189741 /home/renzo/Documents/GitHub/VANGUARDISTAS2/NaveJugador.h
+	"Nave.h"
+
+1588189741 /home/renzo/Documents/GitHub/VANGUARDISTAS2/Nave.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<stdio.h>
+	<string>
+	"ManejoDeSDL.h"
+	"global.h"
+
+1588189741 /home/renzo/Documents/GitHub/VANGUARDISTAS2/NaveEnemiga.h
+	"Nave.h"
+
+1588189741 source:/home/renzo/Documents/GitHub/VANGUARDISTAS2/Menu.cpp
+	"Menu.h"
+	"BotonIniciar.h"
+	"global.h"
+	"ManejoDeSDL.h"
+
+1588189741 source:/home/renzo/Documents/GitHub/VANGUARDISTAS2/Nave.cpp
+	"Nave.h"
+	"NaveJugador.h"
+	"NaveEnemiga.h"
+
+1588189741 source:/home/renzo/Documents/GitHub/VANGUARDISTAS2/NaveEnemiga.cpp
+	"NaveEnemiga.h"
+
+1588189741 source:/home/renzo/Documents/GitHub/VANGUARDISTAS2/NaveJugador.cpp
+	"NaveJugador.h"
+
+1588189741 source:/home/renzo/Documents/GitHub/VANGUARDISTAS2/TextureW.cpp
+	"TextureW.h"
+	"ManejoDeSDL.h"
+	"global.h"
+
+1590260498 source:/home/renzo/Documents/GitHub/VANGUARDISTAS/ManejoDeJson.cpp
+	"ManejoDeJson.h"
+	<stdio.h>
+
+1590260074 /home/renzo/Documents/GitHub/VANGUARDISTAS/ManejoDeJson.h
+	<iostream>
+	<fstream>
+	<string>
+	"json.hpp"
+
+1589848205 /home/renzo/Documents/GitHub/VANGUARDISTAS/json.hpp
+	<algorithm>
+	<cassert>
+	<ciso646>
+	<cstddef>
+	<functional>
+	<initializer_list>
+	<iosfwd>
+	<iterator>
+	<memory>
+	<numeric>
+	<string>
+	<utility>
+	<vector>
+	<utility>
+	<algorithm>
+	<array>
+	<ciso646>
+	<forward_list>
+	<iterator>
+	<map>
+	<string>
+	<tuple>
+	<type_traits>
+	<unordered_map>
+	<utility>
+	<valarray>
+	<exception>
+	<stdexcept>
+	<string>
+	<cstddef>
+	<utility>
+	<stdint.h>
+	<stdint.h>
+	<cstdlib>
+	<ciso646>
+	<cstddef>
+	<type_traits>
+	<ciso646>
+	<limits>
+	<type_traits>
+	<utility>
+	<iterator>
+	<type_traits>
+	<cstdint>
+	<map>
+	<memory>
+	<string>
+	<vector>
+	<array>
+	<ciso646>
+	<cstddef>
+	<cstdint>
+	<string>
+	<algorithm>
+	<ciso646>
+	<iterator>
+	<string>
+	<tuple>
+	<type_traits>
+	<utility>
+	<valarray>
+	<vector>
+	<cstddef>
+	<iterator>
+	<string>
+	<tuple>
+	<algorithm>
+	<array>
+	<cassert>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdio>
+	<cstring>
+	<iterator>
+	<limits>
+	<string>
+	<utility>
+	<array>
+	<cassert>
+	<cstddef>
+	<cstdio>
+	<cstring>
+	<istream>
+	<iterator>
+	<memory>
+	<numeric>
+	<string>
+	<type_traits>
+	<utility>
+	<cassert>
+	<cstddef>
+	<string>
+	<utility>
+	<vector>
+	<cstdint>
+	<utility>
+	<string>
+	<array>
+	<clocale>
+	<cstddef>
+	<cstdio>
+	<cstdlib>
+	<initializer_list>
+	<string>
+	<utility>
+	<vector>
+	<cassert>
+	<cmath>
+	<cstdint>
+	<functional>
+	<string>
+	<utility>
+	<vector>
+	<cstddef>
+	<limits>
+	<ciso646>
+	<iterator>
+	<type_traits>
+	<cstddef>
+	<iterator>
+	<utility>
+	<algorithm>
+	<cassert>
+	<cctype>
+	<numeric>
+	<string>
+	<utility>
+	<vector>
+	<initializer_list>
+	<utility>
+	<algorithm>
+	<array>
+	<cstdint>
+	<cstring>
+	<limits>
+	<string>
+	<algorithm>
+	<cstddef>
+	<ios>
+	<iterator>
+	<memory>
+	<ostream>
+	<string>
+	<vector>
+	<algorithm>
+	<array>
+	<cassert>
+	<ciso646>
+	<clocale>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdio>
+	<limits>
+	<string>
+	<type_traits>
+	<utility>
+	<array>
+	<cassert>
+	<ciso646>
+	<cmath>
+	<cstdint>
+	<cstring>
+	<limits>
+	<type_traits>
+
+1590260857 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/ManejoDeJson.h
+	<iostream>
+	<fstream>
+	<string>
+	"json.hpp"
+
+1588526830 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/NaveEnemiga1.h
+	"NaveEnemiga.h"
+
+1588526826 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/NaveEnemiga2.h
+	"NaveEnemiga.h"
+
+1590260960 source:/home/gonzalo/Taller de Prog I/VANGUARDISTAS/ManejoDeJson.cpp
+	"ManejoDeJson.h"
+	<stdio.h>
+
+1588526831 source:/home/gonzalo/Taller de Prog I/VANGUARDISTAS/NaveEnemiga1.cpp
+	"NaveEnemiga1.h"
+
+1588526895 source:/home/gonzalo/Taller de Prog I/VANGUARDISTAS/NaveEnemiga2.cpp
+	"NaveEnemiga2.h"
+
+1589848205 /home/renzo/Documents/GitHub/VANGUARDISTAS/ManejoDeNiveles.h
+	<list>
+	"Nivel.h"
+
+1589848205 source:/home/renzo/Documents/GitHub/VANGUARDISTAS/ManejoDeNiveles.cpp
+	"ManejoDeNiveles.h"
+	<string>
+	<time.h>
+	<ctime>
+	"Nivel1.h"
+	"Nivel2.h"
+	"Nivel3.h"
+
+1590261478 /home/renzo/Documents/GitHub/VANGUARDISTAS/Nivel1.h
+	"Nivel.h"
+	"TextureW.h"
+
+1590261478 source:/home/renzo/Documents/GitHub/VANGUARDISTAS/Nivel2.cpp
+	"Nivel2.h"
+	"global.h"
+
+1590261478 /home/renzo/Documents/GitHub/VANGUARDISTAS/Nivel2.h
+	"Nivel.h"
+	"TextureW.h"
+
+1590261478 source:/home/renzo/Documents/GitHub/VANGUARDISTAS/Nivel1.cpp
+	"Nivel1.h"
+	"global.h"
+
+1590258469 /home/renzo/Documents/GitHub/VANGUARDISTAS/Nivel.h
+	<list>
+	"NaveEnemiga.h"
+	"Escenario.h"
+	"TextureW.h"
+
+1590260043 source:/home/renzo/Documents/GitHub/VANGUARDISTAS/Nivel.cpp
+	"Nivel.h"
+	"NaveJugador.h"
+	"NaveEnemiga.h"
+	"Temporizador.h"
+
+1590260831 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/ManejoDeNiveles.h
+	<list>
+	"Nivel.h"
+
+1590260831 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/Nivel.h
+	<list>
+	"NaveEnemiga.h"
+	"Escenario.h"
+	"TextureW.h"
+
+1590260831 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/json.hpp
+	<algorithm>
+	<cassert>
+	<ciso646>
+	<cstddef>
+	<functional>
+	<initializer_list>
+	<iosfwd>
+	<iterator>
+	<memory>
+	<numeric>
+	<string>
+	<utility>
+	<vector>
+	<utility>
+	<algorithm>
+	<array>
+	<ciso646>
+	<forward_list>
+	<iterator>
+	<map>
+	<string>
+	<tuple>
+	<type_traits>
+	<unordered_map>
+	<utility>
+	<valarray>
+	<exception>
+	<stdexcept>
+	<string>
+	<cstddef>
+	<utility>
+	<stdint.h>
+	<stdint.h>
+	<cstdlib>
+	<ciso646>
+	<cstddef>
+	<type_traits>
+	<ciso646>
+	<limits>
+	<type_traits>
+	<utility>
+	<iterator>
+	<type_traits>
+	<cstdint>
+	<map>
+	<memory>
+	<string>
+	<vector>
+	<array>
+	<ciso646>
+	<cstddef>
+	<cstdint>
+	<string>
+	<algorithm>
+	<ciso646>
+	<iterator>
+	<string>
+	<tuple>
+	<type_traits>
+	<utility>
+	<valarray>
+	<vector>
+	<cstddef>
+	<iterator>
+	<string>
+	<tuple>
+	<algorithm>
+	<array>
+	<cassert>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdio>
+	<cstring>
+	<iterator>
+	<limits>
+	<string>
+	<utility>
+	<array>
+	<cassert>
+	<cstddef>
+	<cstdio>
+	<cstring>
+	<istream>
+	<iterator>
+	<memory>
+	<numeric>
+	<string>
+	<type_traits>
+	<utility>
+	<cassert>
+	<cstddef>
+	<string>
+	<utility>
+	<vector>
+	<cstdint>
+	<utility>
+	<string>
+	<array>
+	<clocale>
+	<cstddef>
+	<cstdio>
+	<cstdlib>
+	<initializer_list>
+	<string>
+	<utility>
+	<vector>
+	<cassert>
+	<cmath>
+	<cstdint>
+	<functional>
+	<string>
+	<utility>
+	<vector>
+	<cstddef>
+	<limits>
+	<ciso646>
+	<iterator>
+	<type_traits>
+	<cstddef>
+	<iterator>
+	<utility>
+	<algorithm>
+	<cassert>
+	<cctype>
+	<numeric>
+	<string>
+	<utility>
+	<vector>
+	<initializer_list>
+	<utility>
+	<algorithm>
+	<array>
+	<cstdint>
+	<cstring>
+	<limits>
+	<string>
+	<algorithm>
+	<cstddef>
+	<ios>
+	<iterator>
+	<memory>
+	<ostream>
+	<string>
+	<vector>
+	<algorithm>
+	<array>
+	<cassert>
+	<ciso646>
+	<clocale>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdio>
+	<limits>
+	<string>
+	<type_traits>
+	<utility>
+	<array>
+	<cassert>
+	<ciso646>
+	<cmath>
+	<cstdint>
+	<cstring>
+	<limits>
+	<type_traits>
+
+1590260831 source:/home/gonzalo/Taller de Prog I/VANGUARDISTAS/ManejoDeNiveles.cpp
+	"ManejoDeNiveles.h"
+	<string>
+	<time.h>
+	<ctime>
+	"Nivel1.h"
+	"Nivel2.h"
+	"Nivel3.h"
+
+1590260160 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/Nivel1.h
+	"Nivel.h"
+	"TextureW.h"
+
+1590260156 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/Nivel2.h
+	"Nivel.h"
+	"TextureW.h"
+
+1590258912 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/Nivel3.h
+	"Nivel.h"
+	"TextureW.h"
+
+1590260857 source:/home/gonzalo/Taller de Prog I/VANGUARDISTAS/Nivel.cpp
+	"Nivel.h"
+	"NaveJugador.h"
+	"NaveEnemiga.h"
+	"Temporizador.h"
+
+1590260831 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/Temporizador.h
+	<iostream>
+	<chrono>
+	<ctime>
+	<cmath>
+
+1590260282 source:/home/gonzalo/Taller de Prog I/VANGUARDISTAS/Nivel1.cpp
+	"Nivel1.h"
+	"global.h"
+
+1590260283 source:/home/gonzalo/Taller de Prog I/VANGUARDISTAS/Nivel2.cpp
+	"Nivel2.h"
+	"global.h"
+
+1590260831 source:/home/gonzalo/Taller de Prog I/VANGUARDISTAS/Configuracion.cpp
+	"Configuracion.h"
+
+1590260831 /home/gonzalo/Taller de Prog I/VANGUARDISTAS/Configuracion.h
+	<string>
+
+1590259207 source:/home/gonzalo/Taller de Prog I/VANGUARDISTAS/Nivel3.cpp
+	"Nivel3.h"
+	"global.h"
+
+1590261478 /home/renzo/Documents/GitHub/VANGUARDISTAS/Nivel3.h
+	"Nivel.h"
+	"TextureW.h"
+
+1590255875 /home/renzo/Documents/GitHub/VANGUARDISTAS/Temporizador.h
+	<iostream>
+	<chrono>
+	<ctime>
+	<cmath>
+
+1590261478 source:/home/renzo/Documents/GitHub/VANGUARDISTAS/Nivel3.cpp
+	"Nivel3.h"
+	"global.h"
+
+1589848205 source:/home/renzo/Documents/GitHub/VANGUARDISTAS/Configuracion.cpp
+	"Configuracion.h"
+
+1589848205 /home/renzo/Documents/GitHub/VANGUARDISTAS/Configuracion.h
+	<string>
+
+1590268119 source:/home/agustin/Desktop/taller/BotonIniciar.cpp
+	"BotonIniciar.h"
+	"ManejoDeNiveles.h"
+
+1590268119 /home/agustin/Desktop/taller/BotonIniciar.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<stdio.h>
+	<string>
+
+1590268119 /home/agustin/Desktop/taller/ManejoDeNiveles.h
+	<list>
+	"Nivel.h"
+
+1590342820 /home/agustin/Desktop/taller/Nivel.h
+	<list>
+	"NaveEnemiga.h"
+	"Escenario.h"
+	"TextureW.h"
+
+1590269079 /home/agustin/Desktop/taller/NaveEnemiga.h
+	"Nave.h"
+
+1590278141 /home/agustin/Desktop/taller/Nave.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<stdio.h>
+	<string>
+	"ManejoDeSDL.h"
+	"global.h"
+	"list"
+
+1590268119 /home/agustin/Desktop/taller/ManejoDeSDL.h
+	"TextureW.h"
+
+1590268119 /home/agustin/Desktop/taller/TextureW.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<stdio.h>
+	<string>
+
+1590268119 /home/agustin/Desktop/taller/global.h
+	"ManejoDeSDL.h"
+	"ManejoDeLog.h"
+	"ManejoDeJson.h"
+
+1590268119 /home/agustin/Desktop/taller/ManejoDeLog.h
+	"Logger.h"
+
+1590268119 /home/agustin/Desktop/taller/Logger.h
+	<iostream>
+	<fstream>
+
+1590268119 /home/agustin/Desktop/taller/ManejoDeJson.h
+	<iostream>
+	<fstream>
+	<string>
+	"json.hpp"
+
+1590268119 /home/agustin/Desktop/taller/json.hpp
+	<algorithm>
+	<cassert>
+	<ciso646>
+	<cstddef>
+	<functional>
+	<initializer_list>
+	<iosfwd>
+	<iterator>
+	<memory>
+	<numeric>
+	<string>
+	<utility>
+	<vector>
+	<utility>
+	<algorithm>
+	<array>
+	<ciso646>
+	<forward_list>
+	<iterator>
+	<map>
+	<string>
+	<tuple>
+	<type_traits>
+	<unordered_map>
+	<utility>
+	<valarray>
+	<exception>
+	<stdexcept>
+	<string>
+	<cstddef>
+	<utility>
+	<stdint.h>
+	<stdint.h>
+	<cstdlib>
+	<ciso646>
+	<cstddef>
+	<type_traits>
+	<ciso646>
+	<limits>
+	<type_traits>
+	<utility>
+	<iterator>
+	<type_traits>
+	<cstdint>
+	<map>
+	<memory>
+	<string>
+	<vector>
+	<array>
+	<ciso646>
+	<cstddef>
+	<cstdint>
+	<string>
+	<algorithm>
+	<ciso646>
+	<iterator>
+	<string>
+	<tuple>
+	<type_traits>
+	<utility>
+	<valarray>
+	<vector>
+	<cstddef>
+	<iterator>
+	<string>
+	<tuple>
+	<algorithm>
+	<array>
+	<cassert>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdio>
+	<cstring>
+	<iterator>
+	<limits>
+	<string>
+	<utility>
+	<array>
+	<cassert>
+	<cstddef>
+	<cstdio>
+	<cstring>
+	<istream>
+	<iterator>
+	<memory>
+	<numeric>
+	<string>
+	<type_traits>
+	<utility>
+	<cassert>
+	<cstddef>
+	<string>
+	<utility>
+	<vector>
+	<cstdint>
+	<utility>
+	<string>
+	<array>
+	<clocale>
+	<cstddef>
+	<cstdio>
+	<cstdlib>
+	<initializer_list>
+	<string>
+	<utility>
+	<vector>
+	<cassert>
+	<cmath>
+	<cstdint>
+	<functional>
+	<string>
+	<utility>
+	<vector>
+	<cstddef>
+	<limits>
+	<ciso646>
+	<iterator>
+	<type_traits>
+	<cstddef>
+	<iterator>
+	<utility>
+	<algorithm>
+	<cassert>
+	<cctype>
+	<numeric>
+	<string>
+	<utility>
+	<vector>
+	<initializer_list>
+	<utility>
+	<algorithm>
+	<array>
+	<cstdint>
+	<cstring>
+	<limits>
+	<string>
+	<algorithm>
+	<cstddef>
+	<ios>
+	<iterator>
+	<memory>
+	<ostream>
+	<string>
+	<vector>
+	<algorithm>
+	<array>
+	<cassert>
+	<ciso646>
+	<clocale>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdio>
+	<limits>
+	<string>
+	<type_traits>
+	<utility>
+	<array>
+	<cassert>
+	<ciso646>
+	<cmath>
+	<cstdint>
+	<cstring>
+	<limits>
+	<type_traits>
+
+1590268119 /home/agustin/Desktop/taller/Escenario.h
+	<SDL2/SDL.h>
+	"TextureW.h"
+
+1590268119 source:/home/agustin/Desktop/taller/Configuracion.cpp
+	"Configuracion.h"
+
+1590268119 /home/agustin/Desktop/taller/Configuracion.h
+	<string>
+
+1590268119 source:/home/agustin/Desktop/taller/Escenario.cpp
+	"Escenario.h"
+	"global.h"
+
+1590268119 source:/home/agustin/Desktop/taller/Logger.cpp
+	"Logger.h"
+	<iostream>
+	<fstream>
+
+1590268119 source:/home/agustin/Desktop/taller/LoggerDebug.cpp
+	"LoggerDebug.h"
+
+1590268119 /home/agustin/Desktop/taller/LoggerDebug.h
+	"Logger.h"
+
+1590268119 source:/home/agustin/Desktop/taller/LoggerError.cpp
+	"LoggerError.h"
+
+1590268119 /home/agustin/Desktop/taller/LoggerError.h
+	"Logger.h"
+
+1590268119 source:/home/agustin/Desktop/taller/LoggerInfo.cpp
+	"LoggerInfo.h"
+
+1590268119 /home/agustin/Desktop/taller/LoggerInfo.h
+	"Logger.h"
+
+1590268119 source:/home/agustin/Desktop/taller/main.cpp
+	"global.h"
+	"Menu.h"
+
+1590268119 /home/agustin/Desktop/taller/Menu.h
+	"Escenario.h"
+	"TextureW.h"
+
+1590268119 source:/home/agustin/Desktop/taller/ManejoDeJson.cpp
+	"ManejoDeJson.h"
+	<stdio.h>
+
+1590268119 source:/home/agustin/Desktop/taller/ManejoDeLog.cpp
+	"ManejoDeLog.h"
+	<string>
+	"LoggerError.h"
+	"LoggerInfo.h"
+	"LoggerDebug.h"
+	"Logger.h"
+
+1590343340 source:/home/agustin/Desktop/taller/ManejoDeNiveles.cpp
+	"ManejoDeNiveles.h"
+	<string>
+	<time.h>
+	<ctime>
+	"Nivel1.h"
+	"Nivel2.h"
+	"Nivel3.h"
+
+1590268691 /home/agustin/Desktop/taller/Nivel1.h
+	"Nivel.h"
+	"TextureW.h"
+
+1590268119 /home/agustin/Desktop/taller/Nivel2.h
+	"Nivel.h"
+	"TextureW.h"
+
+1590268119 /home/agustin/Desktop/taller/Nivel3.h
+	"Nivel.h"
+	"TextureW.h"
+
+1590268119 source:/home/agustin/Desktop/taller/ManejoDeSDL.cpp
+	"global.h"
+
+1590268119 source:/home/agustin/Desktop/taller/Menu.cpp
+	"Menu.h"
+	"BotonIniciar.h"
+	"global.h"
+	"ManejoDeSDL.h"
+
+1590343838 source:/home/agustin/Desktop/taller/Nave.cpp
+	"Nave.h"
+	"NaveJugador.h"
+	"NaveEnemiga.h"
+
+1590268119 /home/agustin/Desktop/taller/NaveJugador.h
+	"Nave.h"
+	"list"
+
+1590269538 source:/home/agustin/Desktop/taller/NaveEnemiga.cpp
+	"NaveEnemiga.h"
+
+1590268119 source:/home/agustin/Desktop/taller/NaveJugador.cpp
+	"NaveJugador.h"
+
+1590343384 source:/home/agustin/Desktop/taller/Nivel.cpp
+	"Nivel.h"
+	"NaveJugador.h"
+	"NaveEnemiga.h"
+	"Temporizador.h"
+
+1590268119 /home/agustin/Desktop/taller/Temporizador.h
+	<iostream>
+	<chrono>
+	<ctime>
+	<cmath>
+
+1590270626 source:/home/agustin/Desktop/taller/Nivel1.cpp
+	"Nivel1.h"
+	"global.h"
+
+1590268119 source:/home/agustin/Desktop/taller/Nivel2.cpp
+	"Nivel2.h"
+	"global.h"
+
+1590268119 source:/home/agustin/Desktop/taller/Nivel3.cpp
+	"Nivel3.h"
+	"global.h"
+
+1590268119 source:/home/agustin/Desktop/taller/TextureW.cpp
+	"TextureW.h"
+	"ManejoDeSDL.h"
+	"global.h"
+
